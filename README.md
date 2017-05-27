@@ -1,10 +1,10 @@
 # NSTableViewContiguous
 
-Classes/extensions to force contiguous selection behaviour on `NSTableView`
+Classes/extensions to force contiguous selection behaviour on [`NSTableView`](https://developer.apple.com/reference/appkit/nstableview)
 
 ### Changelog
 
-#### v0.1 May 27, 2017
+#### v1.0 May 27, 2017
  
 - Initial release
 
